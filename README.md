@@ -1,2 +1,2 @@
 # Blinking_BUlb
-JavaScript Project
+Exercise Practice Project
